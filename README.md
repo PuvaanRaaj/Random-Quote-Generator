@@ -11,4 +11,3 @@ To use the contact form, you will need to replace the placeholders in the contac
 # Contributing
 Contributions are welcome! If you find a bug or want to add a new feature, feel free to submit a pull request.
 
-s
