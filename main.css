@@ -1,0 +1,47 @@
+body {
+    margin: 0%;
+    padding: 0%;
+  }
+  
+  #quote {
+    font-family: 'Stoic Script', cursive;
+    font-size: 5rem;
+    margin: 10px;
+    padding: 100px;
+  }  
+  
+.navbar {
+    font-size: 16px;
+    box-shadow: 0 2px 10px rgba(0,0,0,1);
+}
+.quote-container {
+    margin: 20px 0 0 0;
+    color: white;
+    text-align: center;
+    background-size: 1980px 720px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container {
+    margin: 0;
+    padding: 0%;
+
+  }
+  
+.quote-text {
+    
+    height: 100%;
+    width: 100%;
+}
+
+footer {
+    margin: 7% 0 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: #343a40;
+    color: white;
+  }
+
