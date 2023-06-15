@@ -45,3 +45,26 @@ footer {
     color: white;
   }
 
+
+/* ----Responsive---- */
+
+/* Styles for desktop devices */
+.container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  /* Styles for tablet devices */
+  @media screen and (max-width: 768px) {
+    .container {
+      width: 90%;
+    }
+  }
+  
+  /* Styles for mobile devices */
+  @media screen and (max-width: 480px) {
+    .container {
+      width: 100%;
+    }
+  }
+  
